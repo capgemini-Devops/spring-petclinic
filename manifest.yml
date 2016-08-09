@@ -1,0 +1,6 @@
+---
+applications:
+- name: nifty-gui
+  memory: 512M
+  random-route: true
+  path: target/petclinic.war
