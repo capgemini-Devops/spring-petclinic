@@ -1,6 +1,6 @@
 ---
 applications:
-- name: nifty-gui
+- name: nifty-gui1
   memory: 1024M
   host: petclinicv2
   domain: cglean.com
