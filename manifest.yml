@@ -1,7 +1,7 @@
 ---
 applications:
-- name: nifty-gui1
+- name: nifty-guig2
   memory: 1024M
-  host: petclinicv2
+  host: petclinicg2
   domain: cglean.com
   path: target/petclinic.war
